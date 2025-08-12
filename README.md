@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer in the learning stage, focusing on mastering both frontend and backend technologies. I'm currently working on React, Vue, and exploring backend technologies like Java and Node.js. Additionally, I’m learning to work with development frameworks like IntelliJ and continuously seeking guidance to enhance my skills in these areas.<br><br><br><br><br><br><br>
+I am a full-stack developer in the learning stage, with my primary focus on mobile development using Flutter and SwiftUI. I have created two applications with Flutter and am continuously building my skills in SwiftUI. Alongside mobile development, I also explore backend technologies such as Java and Python and work with frontend frameworks like React. I regularly use development tools like Vscode and am always eager to seek guidance to enhance my expertise across these areas.<br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
